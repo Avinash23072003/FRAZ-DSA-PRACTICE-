@@ -1,6 +1,7 @@
-import Main;
+import Strings.Main;
 
 package Function;
+
 class Main {
     void fun(int a) {
         System.out.println("The first number with one argument is" + a);

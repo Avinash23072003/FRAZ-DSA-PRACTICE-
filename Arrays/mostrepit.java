@@ -1,3 +1,5 @@
+package Arrays;
+
 public class mostrepit {
     public static void main(String[] args) {
         int freq[] = new int[256];

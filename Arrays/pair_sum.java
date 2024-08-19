@@ -1,3 +1,5 @@
+package Arrays;
+
 public class pair_sum {
     public static boolean find(int arr[], int n, int x) {
         int my_memory[] = new int[1001];

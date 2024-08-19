@@ -1,3 +1,5 @@
+package Recursion;
+
 public class Recursion {
     public static int printn(int n) {
         if (n == 0) {

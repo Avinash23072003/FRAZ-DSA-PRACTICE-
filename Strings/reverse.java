@@ -1,3 +1,5 @@
+package Strings;
+
 public class reverse {
 
     public static int reverse(int x) {

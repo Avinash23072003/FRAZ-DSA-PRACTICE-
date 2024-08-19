@@ -1,3 +1,5 @@
+package Function;
+
 public class sumofitertaorofdigits {
     public static void main(String[] args) {
         int L = 2134;

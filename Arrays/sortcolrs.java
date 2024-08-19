@@ -1,3 +1,5 @@
+package Arrays;
+
 public class sortcolrs {
     public void sortColors(int[] nums) {
         int n = nums.length;

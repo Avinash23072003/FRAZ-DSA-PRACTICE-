@@ -1,3 +1,5 @@
+package Recursion;
+
 public class power2 {
 
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package Strings;
+
 class Class1 {
     // variables
     String name;

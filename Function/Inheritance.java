@@ -1,3 +1,5 @@
+package Function;
+
 class Vehicle {
     String make;
     int wheels;
