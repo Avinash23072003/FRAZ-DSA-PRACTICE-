@@ -5,10 +5,17 @@ public class substring {
         // System.out.println(str.substring(j));
         // }
         String str = "abcd";
-        for (int i = 0; i <= 3; i++) {
-            for (int j = i + 1; j <= 3; j++) {
-                System.out.print(str.substring(i, j) + " ");
+        int n = str.length();
+        String sub;
+        for (int i = 0; i < n; i++) {
+            sub = "";
+            for (int j = i; j < n; j++) {
+
+                sub = sub + str.charAt(j);
+                System.out.print(sub + " ");
+
             }
+
         }
 
     }
